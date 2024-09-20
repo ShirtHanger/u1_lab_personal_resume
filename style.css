@@ -1,0 +1,29 @@
+body {
+    font-size: 20px;
+    background-color: #353333;
+    color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    background: linear-gradient(yellow, silver, grey);
+}
+
+a {
+    color: greenyellow;
+}
+
+#dislcaimer {
+    border: 10px double green;
+    font-size: 10px
+}
+
+#main-header {
+    border: 10px double green;
+}
+
+.sub-header {
+    border: 10px double red;
+}
+
+#work-header {
+    border: 10px double blue;
+}
